@@ -2,10 +2,10 @@
 spring boot + mongodb + populator bean Jackson
 
 
-# install dependency / installation des dependance 
+# install dependency / installation des dependances
 
 mvn clean install
 
-#run command / commande console execution
+# run command / commande console execution
 
 mvn spring-boot:run
