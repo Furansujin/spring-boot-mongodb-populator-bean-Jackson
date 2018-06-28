@@ -1,0 +1,32 @@
+[
+  {
+    "_class": "com.springdata.populator.model.Film",
+    "nom": "Fast and Furious",
+    "realisateur": "Rob Cohen",
+    "annee": 2001
+  },
+  {
+    "_class": "com.springdata.populator.model.Film",
+    "nom": "IRON MAN",
+    "realisateur": "Jon Favreau",
+    "annee": 2008
+  },
+  {
+    "_class": "com.springdata.populator.model.Film",
+    "nom": "Star Wars, épisode VI : Le Retour du Jedi",
+    "realisateur": "Richard Marquand",
+    "annee": 1983
+  },
+  {
+    "_class": "com.springdata.populator.model.Film",
+    "nom": "Star Wars, épisode V : L'Empire contre-attaque",
+    "realisateur": "Irvin Kershner",
+    "annee": 1980
+  },
+  {
+    "_class": "com.springdata.populator.model.Film",
+    "nom": "Star Wars, épisode IV : Un nouvel espoir",
+    "realisateur": "George Lucas",
+    "annee": 1997
+  }
+]
